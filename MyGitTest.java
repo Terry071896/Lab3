@@ -1,6 +1,6 @@
 
 public class MyGitTest {
 	public static void main(String [] args) {
-		System.out.println("Terry is my name.");
+		System.out.println("Terry says Hello Git Test Branch AAAA.");
 	}
 }
